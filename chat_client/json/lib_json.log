@@ -1,0 +1,6 @@
+﻿  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(C:\Users\JS\Desktop\jsoncpp-src-0.5.0\makefiles\vs71\../../build/vs71/release/lib_json\lib_json.lib) does not match the Library's OutputFile property value (C:\Users\JS\Desktop\jsoncpp-src-0.5.0\build\vs71\release\lib_json\json_vc71_libmt.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(lib_json) does not match the Library's OutputFile property value (json_vc71_libmt). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  lib_json.vcxproj -> C:\Users\JS\Desktop\jsoncpp-src-0.5.0\makefiles\vs71\../../build/vs71/release/lib_json\lib_json.lib
